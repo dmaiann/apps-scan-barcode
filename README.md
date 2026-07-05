@@ -1,3 +1,4 @@
+
 # ScanIt - Smart Barcode & QR App
 
 ScanIt adalah aplikasi mobile berbasis Flutter yang dirancang untuk menscan dan membuat barcode serta QR code dengan mudah. Dibangun dengan desain UI/UX yang modern (*glassmorphism*, warna dinamis, dan animasi yang mulus), aplikasi ini memberikan pengalaman pengguna yang sangat premium.
@@ -42,3 +43,4 @@ ScanIt adalah aplikasi mobile berbasis Flutter yang dirancang untuk menscan dan 
 
 ## 📸 Tampilan Aplikasi
 Aplikasi ini memiliki arsitektur yang sangat modular (*Clean Architecture*) di dalam direktori `lib/`, memisahkan *core/theme*, *shared widgets*, dan tiap *features* (Splash, Home, Scan, Generate) sehingga kode mudah untuk dipelihara.
+
